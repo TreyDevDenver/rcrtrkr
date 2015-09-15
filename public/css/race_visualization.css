@@ -1,0 +1,57 @@
+path {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 3px;
+}
+path {
+  fill: none;
+  stroke: none;
+}
+
+circle {
+  stroke: #ccc;
+  stroke-width: 3px;
+}
+.changing {
+	opacity: 0.5;
+}
+.changing circle {
+	stroke: yellow;
+}
+.teamColor0 circle {
+  fill: #aec7e8;
+}
+.teamColor1 circle {
+  fill: #ffbb78;
+}
+.teamColor2 circle {
+  fill: #dbdb8d;
+}
+.teamColor3 circle {
+  fill: #ff9896;
+}
+.teamColor4 circle {
+  fill: #c5b0d5;
+}
+.teamColor5 circle {
+  fill: #9edae5;
+}
+
+tr.teamColor0 {
+  background: #aec7e8;
+}
+tr.teamColor1 {
+  background: #ffbb78;
+}
+tr.teamColor2 {
+  background: #dbdb8d;
+}
+tr.teamColor3 {
+  background: #ff9896;
+}
+tr.teamColor4 {
+  background: #c5b0d5;
+}
+tr.teamColor5 {
+  background: #9edae5;
+}
